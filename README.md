@@ -10,3 +10,4 @@ https://www.kaggle.com/CooperUnion/anime-recommendations-database/code?datasetId
 * ☆user-clustering-for-anime-recommendation.ipynb
 * collaborative-filtering-on-anime-data.ipynb
 * content-collaborative-anime-recommendation.ipynb
+* try-content-based-and-collaborative-filtering.ipynb
